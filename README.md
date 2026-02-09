@@ -20,7 +20,7 @@
 - `bash`
 - `curl`
 - `tar`
-- `git` (for `asdf list-all prek`)
+- `git` (for `asdf list all prek`)
 
 ## Install
 
@@ -31,7 +31,7 @@ asdf plugin add prek https://github.com/AlliotTech/asdf-prek.git
 Show all available versions:
 
 ```bash
-asdf list-all prek
+asdf list all prek
 ```
 
 Install a version:
