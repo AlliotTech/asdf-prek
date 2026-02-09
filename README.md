@@ -13,7 +13,7 @@
 `prek` is a fast Rust-based CLI for maintaining Python lint suppressions (such as `# noqa`) and related workflows.
 
 - Upstream project: https://github.com/j178/prek
-- Documentation: https://docs.prek.j178.dev/
+- Documentation: https://prek.j178.dev/
 
 ## Dependencies
 
